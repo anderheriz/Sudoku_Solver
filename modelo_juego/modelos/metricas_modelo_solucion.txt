@@ -1,0 +1,8 @@
+Filas usadas del CSV: 1000000
+Test size: 0.1
+Test loss: 1.545356273651123
+Test accuracy: 0.4588114023208618
+Accuracy por casilla: 0.45923555555555556
+Accuracy en huecos originales: 0.24274615514120565
+Accuracy en pistas originales: 0.6929963303449558
+Accuracy tablero completo: 0.0

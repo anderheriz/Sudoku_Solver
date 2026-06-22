@@ -1,0 +1,6 @@
+train: imag_proc/images/train
+test: imag_proc/images/test
+val: imag_proc/images/val
+
+nc: 1 
+names : ["sudoku"]

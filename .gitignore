@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.cache
+.DS_Store
+Thumbs.db
+
+# Salidas temporales de la app y diagnostico
+modelo_casillas/casillas_debug/
+modelo_casillas/debug_ultima_imagen/
+
+# Datasets generados o demasiado grandes para GitHub
+modelo_casillas/dataset_cnn_combinado/
+modelo_casillas/dataset_real_aumentado/
+modelo_juego/dataset/sudoku.csv
+modelo_juego/dataset/sudoku_*.csv
+modelo_yolo/imag_proc/
+
+# Resultados generados por entrenamientos YOLO
+modelo_yolo/runs/
